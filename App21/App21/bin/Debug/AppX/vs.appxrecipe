@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP</Machine>
+    <WindowsUser>单斌</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8a0cbdbe-5d78-4240-9ea7-16fa43fab4a4</PackageIdentityName>
+    <RegisteredManifestChecksum>BFEBE33EFA1FC0E338C9B04D7760EA1088A16C3D9F0C66AED61E2430137C9D45</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8a0cbdbe-5d78-4240-9ea7-16fa43fab4a4_1.1.1.2_neutral__7bd4h6rnxra96</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8a0cbdbe-5d78-4240-9ea7-16fa43fab4a4_7bd4h6rnxra96!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8a0cbdbe-5d78-4240-9ea7-16fa43fab4a4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=单斌</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.1.2</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-03T12:23:00.246</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\App21.exe">
+      <PackagePath>App21.exe</PackagePath>
+      <Modified>2014-04-03T12:16:31.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+      <Modified>2014-03-01T05:52:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\Logo.jpg">
+      <PackagePath>Assets\Logo.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-26T12:16:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\SmallLogo.jpg">
+      <PackagePath>Assets\SmallLogo.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-26T12:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\SplashScreen.jpg">
+      <PackagePath>Assets\SplashScreen.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-26T12:00:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\LogoMedium.jpg">
+      <PackagePath>Assets\LogoMedium.jpg</PackagePath>
+      <Modified>2014-04-02T14:32:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\images\background1.jpg">
+      <PackagePath>images\background1.jpg</PackagePath>
+      <Modified>2014-02-13T12:06:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\images\background2.jpg">
+      <PackagePath>images\background2.jpg</PackagePath>
+      <Modified>2014-02-13T12:06:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\images\background3.jpg">
+      <PackagePath>images\background3.jpg</PackagePath>
+      <Modified>2014-04-02T15:47:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\1.png">
+      <PackagePath>Assets\1.png</PackagePath>
+      <Modified>2014-03-03T14:26:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\2.png">
+      <PackagePath>Assets\2.png</PackagePath>
+      <Modified>2014-03-03T14:26:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\3.png">
+      <PackagePath>Assets\3.png</PackagePath>
+      <Modified>2014-03-03T14:26:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\4.png">
+      <PackagePath>Assets\4.png</PackagePath>
+      <Modified>2014-02-15T13:07:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-02-13T08:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-02T16:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\Detailpage.xbf">
+      <PackagePath>Detailpage.xbf</PackagePath>
+      <Modified>2014-04-02T14:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-04-02T16:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+      <Modified>2014-04-02T15:46:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\Results.xbf">
+      <PackagePath>Results.xbf</PackagePath>
+      <Modified>2014-04-02T15:59:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\SettingsPage.xbf">
+      <PackagePath>SettingsPage.xbf</PackagePath>
+      <Modified>2014-04-02T15:59:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+      <Modified>2014-04-02T14:41:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\单斌\Desktop\项目\悦读\App21\App21\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-03T12:23:00.083</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
